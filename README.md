@@ -1,18 +1,18 @@
 <div align="center">
 
-# 🚀 Hi. I`m Yevhenii 
+# 🚀 Hi, I'm Yevhenii
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-**Python розробник | Telegram Bots | Machine Learning | Desktop Applications**
+**Python Developer | Telegram Bots | Machine Learning | Desktop Applications**
 
 ---
 
 ### 🌟 GitHub Stats
 
-![Zheka-GGS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zheka-GGS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Yevhenii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zheka-GGS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheka-GGS&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -20,35 +20,35 @@
 
 </div>
 
-## 👨‍💻 Про мене
+## 👨‍💻 About Me
 
-Привіт! Я — **Євгеній (Zheka)**, Python-розробник з Тбілісі.
+Hi! I'm **Yevhenii (Zheka)**, a passionate Python developer focused on building practical and efficient solutions.
 
-Спеціалізуюсь на створенні:
-- Асинхронних **Telegram-ботів**
-- **Machine Learning** рішень з реальною цінністю
-- Сучасних **desktop-додатків**
-- Швидких **backend** API
+I specialize in:
+- Asynchronous **Telegram Bots**
+- **Machine Learning** projects with real business value
+- Modern **Desktop Applications**
+- Fast and scalable **Backend APIs**
 
-Працюю з **Python 3.11+**, завжди дотримуюсь чистого коду та сучасних практик.
+I work with **Python 3.11+**, always following clean code principles and best practices.
 
 ---
 
-## 🛠 Технології
+## 🛠 Technologies
 
-**Мови:**
+**Languages:**
 - **Python 3.11+**
 
 **Frameworks & Libraries:**
 - **Web & API:** FastAPI, Flask, Django
-- **Боти:** aiogram 3.x
-- **ML / Data:** scikit-learn, XGBoost, pandas, numpy
+- **Bots:** aiogram 3.x
+- **Machine Learning / Data:** scikit-learn, XGBoost, pandas, numpy
 - **Desktop:** Tkinter, psutil, threading, Streamlit
 
 **Databases:**
 - PostgreSQL • MySQL • MongoDB • SQLite
 
-**Інструменти:**
+**Tools:**
 - Docker • Git • Postman • Jupyter Notebook
 
 ---
@@ -56,33 +56,36 @@
 ## 🔥 Featured Projects
 
 ### 1. **Project Explorer Pro V1** 🗂️
-Продвинутий десктопний файловий менеджер з вбудованим менеджером процесів, багатопотоковим скануванням та системою захисту файлів.
 
-**Технології:** Python 3.11+, Tkinter, psutil, threading
+Advanced desktop file manager with an integrated process manager. Features multi-threaded directory scanning, a three-level file protection system, and real-time process monitoring.
 
-[**→ Відкрити репозиторій**](https://github.com/Zheka-GGS/Project-Explorer-Pro-V1)
+**Technologies:** Python 3.11+, Tkinter, psutil, threading
+
+[**→ View Repository**](https://github.com/Zheka-GGS/Project-Explorer-Pro-V1)
 
 ---
 
 ### 2. **Customer Churn Prediction** 📉
-Повноцінний ML-проєкт: прогнозування відтоку клієнтів телеком-компанії + веб-інтерфейс.
 
-**Технології:** scikit-learn, XGBoost, Streamlit, Docker
+End-to-end Machine Learning project for predicting customer churn in a telecom company, including data analysis, model training, and a user-friendly web interface.
 
-[**→ Відкрити репозиторій**](https://github.com/Zheka-GGS/Customer-Churn-Prediction)
+**Technologies:** scikit-learn, XGBoost, Streamlit, Docker
+
+[**→ View Repository**](https://github.com/Zheka-GGS/Customer-Churn-Prediction)
 
 ---
 
 ### 3. **Kyivstar Telegram Bot** 📱
-Інформаційний Telegram-бот з зручною захищеною адмін-панеллю.
 
-**Технології:** aiogram 3.x, SQLite, FSM
+Informational Telegram bot with a protected admin panel for managing tariffs, services, and roaming information.
 
-[**→ Відкрити репозиторій**](https://github.com/Zheka-GGS/Kyivstar-Telegram-Bot)
+**Technologies:** aiogram 3.x, SQLite, FSM
+
+[**→ View Repository**](https://github.com/Zheka-GGS/Kyivstar-Telegram-Bot)
 
 ---
 
-## 📬 Зв'язок зі мною
+## 📬 Connect With Me
 
 <div align="center">
 
@@ -94,5 +97,5 @@
 ---
 
 <div align="center">
-<i>Відкритий до цікавих пропозицій та співпраці ✨</i>
+<i>Open to interesting projects and collaboration ✨</i>
 </div>
