@@ -10,11 +10,7 @@
 
 ---
 
-### 🌟 GitHub Stats
-
-![Yevhenii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zheka-GGS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheka-GGS&layout=compact&theme=tokyonight&hide_border=true)
+### 🌟 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Zheka-GGS&theme=tokyonight&hide_border=true)
 
